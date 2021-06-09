@@ -1,7 +1,5 @@
 # Webpack 5 React Boilerplate (React/Babel/SASS)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 Webpack 5 React boilerplate using Babel, Sass with an production build and a hot development.
 
 ---
